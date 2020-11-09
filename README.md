@@ -5,8 +5,7 @@ This repository summarizes the related materials related to our survey paper abo
 [Machine Learning for Survival Analysis: A Survey](https://dl.acm.org/doi/abs/10.1145/3214306).
 
 ## Citation
-Ping Wang, Yan Li, and Chandan K. Reddy. "Machine learning for survival analysis: A survey." ACM Computing Surveys (CSUR) 51.6 (2019): 1-36.
-
+Ping Wang, Yan Li, and Chandan K. Reddy. "Machine learning for survival analysis: A survey." ACM Computing Surveys (CSUR) 51, 6 (2019), 36 pages.
 ```
 @article{wang2019machine,
   title={Machine learning for survival analysis: A survey},
