@@ -5,7 +5,7 @@ This repository summarizes the related materials related to our survey paper abo
 [Machine Learning for Survival Analysis: A Survey](https://dl.acm.org/doi/abs/10.1145/3214306).
 
 ## Citation
-Ping Wang, Yan Li, and Chandan K. Reddy. "Machine learning for survival analysis: A survey." ACM Computing Surveys (CSUR) 51, 6 (2019), 36 pages.
+Ping Wang, Yan Li, and Chandan K. Reddy. "Machine learning for survival analysis: A survey." ACM Computing Surveys (CSUR). 51, 6 (2019), 36 pages.
 ```
 @article{wang2019machine,
   title={Machine learning for survival analysis: A survey},
@@ -20,16 +20,16 @@ Ping Wang, Yan Li, and Chandan K. Reddy. "Machine learning for survival analysis
 ```
 
 ## Important Links
-- Links related to this work:
+- Related links:
   - Paper: https://dl.acm.org/doi/abs/10.1145/3214306
   - Supplemental Material: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3214306&file=wang.zip&download=true
   - Tutorial Slides (KDD 2017): http://dmkd.cs.vt.edu/TUTORIAL/Survival/Slides.pdf
-  - Tutorial Video: [Part-1](https://www.youtube.com/watch?v=GpIk1NhZiVU&t=1922s), [Part-2](https://www.youtube.com/watch?v=0UzwYWP9f8U&t=4342s&ab_channel=KDD2017video)
+  - Tutorial Videos: [Part-1](https://www.youtube.com/watch?v=GpIk1NhZiVU&t=1922s), [Part-2](https://www.youtube.com/watch?v=0UzwYWP9f8U&t=4342s&ab_channel=KDD2017video)
   - Related Datasets: http://dmkd.cs.vt.edu/projects/survival/data/
   - Related packages: http://dmkd.cs.vt.edu/projects/survival/software/
   
 
-## Complete Taxonomy  of Survival Analysis Methods
+## Taxonomy  of Survival Analysis Methods
 <h2 align="center">
   <img align="center"  src="Taxonomy.jpg" alt="...">
 </h2>
