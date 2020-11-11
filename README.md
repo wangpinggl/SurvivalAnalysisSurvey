@@ -21,6 +21,7 @@ Ping Wang, Yan Li, and Chandan K. Reddy. "Machine learning for survival analysis
 - Related links:
   - Paper: https://dl.acm.org/doi/abs/10.1145/3214306
   - Supplemental Material: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3214306&file=wang.zip&download=true
+  - Tutorial website: http://dmkd.cs.vt.edu/TUTORIAL/Survival/
   - Tutorial Slides (KDD 2017): http://dmkd.cs.vt.edu/TUTORIAL/Survival/Slides.pdf
   - Tutorial Videos: [Part-1](https://www.youtube.com/watch?v=GpIk1NhZiVU&t=1922s), [Part-2](https://www.youtube.com/watch?v=0UzwYWP9f8U&t=4342s&ab_channel=KDD2017video)
   - Related Datasets: http://dmkd.cs.vt.edu/projects/survival/data/
